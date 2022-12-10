@@ -14,7 +14,8 @@ var MostRecentVerses_json =
     "MostRecent_Searches": {
         "MostRecentSearch": [
             {
-                "[\"glory\",0,\"NIV\",\"Genesis\"]": "221210 192628",
+                "[\"glory\",263,\"NIV\",\"\"]": "221210 192827",
+                "[\"glory\",0,\"NIV\",\"Genesis\"]": "221210 192813",
                 "[\"live by\",10,\"NIV\",\"Paulines\"]": "221014 110403",
                 "life": "221013 180635,19, NIV, UserDef: Mal Mat",
                 "Jesus": "221013 175441,209 found in 'NIV' in 'Mal Mat'.",
